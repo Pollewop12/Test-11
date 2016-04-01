@@ -38,7 +38,7 @@ curl --get --include 'https://simple-weather.p.mashape.com/surfreport/123?units=
             "beach": "Santa Cruz",
             "monday": {
                 "1pm": {
-                    "tide": 5,
+                    "tide": 25,
                     "wind": 15,
                     "watertemp": 90,
                     "surfheight": 5,
